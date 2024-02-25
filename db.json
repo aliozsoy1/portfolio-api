@@ -1,44 +1,5 @@
 {
   "projects": [
-    {
-      "id": 1,
-      "title": "React İle Hava Durumu Uygulaması",
-      "description": "React ile weather apisini kullanarak hava durumu uygulaması yaptım.",
-      "tags": [
-        "tag1",
-        "tag2"
-      ],
-      "url": "https://example.com/project1"
-    },
-    {
-      "id": 2,
-      "title": "Project 2",
-      "description": "Description of Project 2",
-      "tags": [
-        "tag2",
-        "tag3"
-      ],
-      "url": "https://example.com/project2"
-    },
-    {
-      "id": 3,
-      "title": "Project 3",
-      "description": "Description of Project 3",
-      "tags": [
-        "tag1",
-        "tag3"
-      ],
-      "url": "https://example.com/project3"
-    },
-    {
-      "id": 4,
-      "title": "Project 4",
-      "description": "Description of Project 4",
-      "tags": [
-        "tag1",
-        "tag4"
-      ],
-      "url": "https://example.com/project4"
-    }
+    
   ]
 }
